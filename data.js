@@ -33,7 +33,7 @@ export default [
   },
   {
     image: "./img/meditating.jpg",
-    text: "I'm need to relax",
+    text: "I need to relax",
   },
   {
     image: "./img/depression.jpg",
